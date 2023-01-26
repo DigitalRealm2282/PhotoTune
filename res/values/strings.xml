@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Photo Tune</string>
+
+    <string name="filters">Filters</string>
+    <string name="edit">Edit</string>
+    <string name="brush">Brush</string>
+    <string name="emoji">Emoji</string>
+    <string name="text">Text</string>
+    <string name="enter_text">Enter your text</string>
+    <string name="done_btn_text">Done</string>
+    <string name="image">Image</string>
+    <string name="demo">DEMO</string>
+    <string name="font_name">Arial</string>
+    <string name="frame">Frame</string>
+    <string name="add_frame">Add Frame</string>
+    <string name="crop_image">Crop</string>
+    <string name="rotate_image">Rotate</string>
+    <string name="title_camera">CAMERA</string>
+    <string name="title_open">OPEN</string>
+    <string name="title_save">SAVE</string>
+    <string name="brush_size">BRUSH SIZE</string>
+    <string name="opacity">OPACITY</string>
+    <string name="brightness">BRIGHTNESS</string>
+    <string name="contrast">CONTRAST</string>
+    <string name="saturation">SATURATION</string>
+    <string name="filter_name">FILTER NAME</string>
+    <string name="filters_desc">Filters</string>
+    <string name="edit_desc">Edit</string>
+    <string name="brush_desc">Brush</string>
+    <string name="emoji_desc">Emoji</string>
+    <string name="text_desc">Text</string>
+    <string name="image_desc">Image</string>
+    <string name="frame_desc">Frame</string>
+    <string name="crop_desc">Crop &amp; Rotate</string>
+    <string name="check_desc">check</string>
+    <string name="check_frame_desc">check frame</string>
+    <string name="image_frame_desc">image frame</string>
+    <string name="thumbnail_desc">thumbnail</string>
+
+
+    <string name="loading">Applying filter</string>
+    <string name="clarendon">Clarendon</string>
+    <string name="oldman">OldMan</string>
+    <string name="haan">Haan</string>
+    <string name="april">April</string>
+    <string name="mars">Mars</string>
+    <string name="rise">Rise</string>
+    <string name="audrey">Audrey</string>
+    <string name="metropolis">Metropolis</string>
+    <string name="cruz">Cruz</string>
+    <string name="adele">Adele</string>
+    <string name="amazon">Amazon</string>
+    <string name="starlit">Starlit</string>
+    <string name="bluemess">BlueMess</string>
+    <string name="struck">Struck</string>
+    <string name="whisper">Whisper</string>
+    <string name="lime">Lime</string>
+    <string name="rota">Rotate</string>
+    <string name="main_image">Main Image</string>
+    <string name="reset">Reset</string>
+    <string-array name="filters">
+        <item>Clear</item>
+        <item>Auto Fix</item>
+        <item>GTA Style</item>
+        <item>Ai Cartoon</item>
+        <item>Oil Paint</item>
+        <item>Documentary</item>
+        <item>Dual Tone</item>
+        <item>Fill light</item>
+        <item>Contrast</item>
+        <item>Grain</item>
+        <item>Grayscale</item>
+        <item>Flip horizontal</item>
+        <item>Flip vertical</item>
+        <item>Cross process</item>
+        <item>Lomish</item>
+        <item>Negative</item>
+        <item>Posterize</item>
+        <item>Rotate</item>
+        <item>Saturate</item>
+        <item>Brightness</item>
+        <item>Sharpen</item>
+        <item>Temperature</item>
+        <item>Tint</item>
+        <item>Vignette</item>
+        <item>Black White</item>
+        <item>Fish Eye</item>
+        <item>Sepia</item>
+
+    </string-array>
+
+</resources>
